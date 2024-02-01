@@ -1,0 +1,14 @@
+C:\Johan\Pruebas\Api\api\negocios\bin\Debug\negocios.dll
+C:\Johan\Pruebas\Api\api\negocios\bin\Debug\negocios.pdb
+C:\Johan\Pruebas\Api\api\negocios\bin\Debug\datos.dll
+C:\Johan\Pruebas\Api\api\negocios\bin\Debug\entidades.dll
+C:\Johan\Pruebas\Api\api\negocios\bin\Debug\datos.pdb
+C:\Johan\Pruebas\Api\api\negocios\bin\Debug\entidades.pdb
+C:\Johan\Pruebas\Api\api\negocios\obj\Debug\negocios.csproj.AssemblyReference.cache
+C:\Johan\Pruebas\Api\api\negocios\obj\Debug\negocios.csproj.CoreCompileInputs.cache
+C:\Johan\Pruebas\Api\api\negocios\obj\Debug\negocios.csproj.CopyComplete
+C:\Johan\Pruebas\Api\api\negocios\obj\Debug\negocios.dll
+C:\Johan\Pruebas\Api\api\negocios\obj\Debug\negocios.pdb
+C:\Johan\Pruebas\Api\api\negocios\bin\Debug\negocios.dll.config
+C:\Johan\Pruebas\Api\api\negocios\bin\Debug\datos.dll.config
+C:\Johan\Pruebas\Api\api\negocios\bin\Debug\entidades.dll.config

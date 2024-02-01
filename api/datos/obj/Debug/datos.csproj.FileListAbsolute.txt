@@ -1,0 +1,11 @@
+C:\Johan\Pruebas\Api\api\datos\bin\Debug\datos.dll
+C:\Johan\Pruebas\Api\api\datos\bin\Debug\datos.pdb
+C:\Johan\Pruebas\Api\api\datos\bin\Debug\entidades.dll
+C:\Johan\Pruebas\Api\api\datos\bin\Debug\entidades.pdb
+C:\Johan\Pruebas\Api\api\datos\obj\Debug\datos.csproj.AssemblyReference.cache
+C:\Johan\Pruebas\Api\api\datos\obj\Debug\datos.csproj.CoreCompileInputs.cache
+C:\Johan\Pruebas\Api\api\datos\obj\Debug\datos.csproj.CopyComplete
+C:\Johan\Pruebas\Api\api\datos\obj\Debug\datos.dll
+C:\Johan\Pruebas\Api\api\datos\obj\Debug\datos.pdb
+C:\Johan\Pruebas\Api\api\datos\bin\Debug\datos.dll.config
+C:\Johan\Pruebas\Api\api\datos\bin\Debug\entidades.dll.config
